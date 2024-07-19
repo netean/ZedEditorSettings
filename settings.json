@@ -9,6 +9,7 @@
 
 
 // I'm sure Zed will get a GUI settings editor in time but until that happens...
+// see what is possible with settings here: https://zed.dev/docs/configuring-zed
 {
   "preferred_line_length": 90,
   "soft_wrap": "preferred_line_length",
