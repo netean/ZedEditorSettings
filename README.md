@@ -1,0 +1,2 @@
+# ZedEditorSettings
+Zed Settings
