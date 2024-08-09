@@ -14,8 +14,8 @@
   "preferred_line_length": 90,
   "soft_wrap": "preferred_line_length",
   "hour_format": "hour24",
-  "ui_font_size": 16,
-  "buffer_font_size": 16,
+  "ui_font_size": 15,
+  "buffer_font_size": 15,
   "theme": {
     "mode": "system",
     "light": "One Light",
